@@ -66,7 +66,7 @@ public class ApplicationManipulantUnePile
 		{
 			// On décide ici que si la création de la pile échoue,
 			// on construit une pile par défaut
-			System.err
+			System.out
 					.println("Capacité invalide, création d'une PEPNS de capacité par défaut");
 			pile = new PileEntiersPositifsOuNulsAvecSomme();
 		}
@@ -117,11 +117,11 @@ public class ApplicationManipulantUnePile
 		}
 		catch (PilePleineException e1)
 		{
-			System.err.println("Impossible d'empiler, la pile est pleine");
+			System.out.println("Impossible d'empiler, la pile est pleine");
 		}
 		catch (EntierNegatifException e2)
 		{
-			System.err.println("Impossible d'empiler, l'entier est négatif");
+			System.out.println("Impossible d'empiler, l'entier est négatif");
 		}
 	}
 
@@ -137,7 +137,7 @@ public class ApplicationManipulantUnePile
 		}
 		catch (PileVideException e1)
 		{
-			System.err.println("Impossible de depiler, la pile est vide");
+			System.out.println("Impossible de depiler, la pile est vide");
 		}
 	}
 	
@@ -153,7 +153,7 @@ public class ApplicationManipulantUnePile
 		}
 		catch (PileVideException e1)
 		{
-			System.err.println("Impossible de voir le sommet, la pile est vide");
+			System.out.println("Impossible de voir le sommet, la pile est vide");
 		}
 	}
 }
