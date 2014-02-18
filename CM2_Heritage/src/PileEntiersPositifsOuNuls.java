@@ -129,7 +129,7 @@ public class PileEntiersPositifsOuNuls
 	 * Obtenir la capacité de la pile
 	 * @return la capacité de la pile
 	 */
-	public int getCapacite()
+	public int obtenirCapacite()
 	{
 		return this.capacite;
 	}
@@ -138,7 +138,7 @@ public class PileEntiersPositifsOuNuls
 	 * Obtenir la taille de la pile
 	 * @return la taille de la pile
 	 */
-	public int getTaille()
+	public int obtenirTaille()
 	{
 		return this.taille;
 	}

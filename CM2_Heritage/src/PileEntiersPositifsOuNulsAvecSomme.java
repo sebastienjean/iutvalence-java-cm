@@ -38,7 +38,7 @@ public class PileEntiersPositifsOuNulsAvecSomme extends PileEntiersPositifsOuNul
 	 * Obtenir la somme des éléments de la pile
 	 * @return la somme des éléments de la pile
 	 */
-	public int getSomme()
+	public int obtenirSomme()
 	{
 		return this.somme;
 	}
