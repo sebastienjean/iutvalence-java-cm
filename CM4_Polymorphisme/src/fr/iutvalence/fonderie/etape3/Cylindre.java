@@ -18,7 +18,7 @@ public class Cylindre extends Piece
 	final double hauteurEnCm;
 	
 	/**
-	 * Construit un cylindre de taille donnée
+	 * Construire un cylindre de taille donnée
 	 * @param rayonDeLaBaseEnCm rayon de la base du cylindre, en cm
 	 * @param hauteurEnCm hauteur du cylindre, en cm
 	 */

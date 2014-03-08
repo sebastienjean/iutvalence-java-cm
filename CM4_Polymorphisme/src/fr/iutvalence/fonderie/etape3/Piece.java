@@ -1,7 +1,7 @@
 package fr.iutvalence.fonderie.etape3;
 
 /**
- * REprésente une pièce, dont on souhaite connaitre le volume
+ * Représente une pièce, dont on souhaite connaitre le volume
  * @author sebastienjean
  *
  */

@@ -13,7 +13,7 @@ public class Fonderie
 	private double volumeCumuleDesPavesFondusEnCm3;
 	
 	/**
-	 * Construit une fonderie, immédiatement mise ne service
+	 * Construire une fonderie, immédiatement mise en service
 	 */
 	public Fonderie()
 	{

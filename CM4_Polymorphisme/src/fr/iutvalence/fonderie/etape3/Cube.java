@@ -8,7 +8,7 @@ package fr.iutvalence.fonderie.etape3;
 public class Cube extends Pave
 {
 	/**
-	 * Construit un cube de taille donnée
+	 * Construire un cube de taille donnée
 	 * @param longueurAreteEnCm la longueur des arêtes du cube, en cm
 	 */
 	public Cube(double longueurAreteEnCm)

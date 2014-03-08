@@ -13,7 +13,7 @@ public class Sphere extends Piece
 	final double rayonEnCm;
 
 	/**
-	 * Construit une sphère cylindre de taille donnée
+	 * Construire une sphère de taille donnée
 	 * @param rayonEnCm rayon, en cm
 	 */
 	public Sphere(double rayonEnCm)

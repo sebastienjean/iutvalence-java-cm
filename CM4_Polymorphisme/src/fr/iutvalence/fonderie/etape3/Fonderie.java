@@ -1,7 +1,7 @@
 package fr.iutvalence.fonderie.etape3;
 
 /**
- * Représente une fonderie, dans laquelle sont fondus des pavés.
+ * Représente une fonderie, dans laquelle sont fondus des pièces.
  * 
  * @author sebastienjean
  */
@@ -13,7 +13,7 @@ public class Fonderie
 	private double volumeCumuleDesPiecesFonduesEnCm3;
 	
 	/**
-	 * Construit une fonderie, immédiatement mise ne service
+	 * Construire une fonderie, immédiatement mise en service
 	 */
 	public Fonderie()
 	{

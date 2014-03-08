@@ -23,7 +23,7 @@ public class Pave
 	private final double longueurAreteZEnCm;
 
 	/**
-	 * Construit un pavé de taille donnée
+	 * Construire un pavé de taille donnée
 	 * @param longueurAreteXenCm longueur de l'arête X, en cm
 	 * @param longueurAreteYenCm longueur de l'arête Y, en cm
 	 * @param longueurAreteZenCm longueur de l'arête Z, en cm
