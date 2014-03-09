@@ -1,7 +1,7 @@
 package fr.iutvalence.java.cm4.piles;
 
 /**
- * Classe représentant une pile d'entiers positifs ou nuls. Une pil est
+ * Classe représentant une pile d'entiers positifs ou nuls. Une pile est
  * caractérisée par sa capacité, et les éléments qu'elle contient.
  * 
  * @author sebastienjean
