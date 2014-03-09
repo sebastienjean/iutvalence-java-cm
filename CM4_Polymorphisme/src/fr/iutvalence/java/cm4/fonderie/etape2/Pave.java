@@ -1,4 +1,4 @@
-package fr.iutvalence.fonderie.etape2;
+package fr.iutvalence.java.cm4.fonderie.etape2;
 
 /**
  * Représente un pavé dont on souhaite notamment connaitre le volume

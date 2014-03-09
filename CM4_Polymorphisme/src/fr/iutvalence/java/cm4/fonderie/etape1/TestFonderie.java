@@ -1,7 +1,7 @@
-package fr.iutvalence.fonderie.etape2;
+package fr.iutvalence.java.cm4.fonderie.etape1;
 
 /**
- * Application de test de l'étude de cas "fonderie" (étape2)
+ * Application de test de l'étude de cas "fonderie" (étape1)
  * 
  * @author sebastienjean
  * 

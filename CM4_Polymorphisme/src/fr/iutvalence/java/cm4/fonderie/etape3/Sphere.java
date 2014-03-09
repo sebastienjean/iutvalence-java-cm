@@ -1,4 +1,4 @@
-package fr.iutvalence.fonderie.etape3;
+package fr.iutvalence.java.cm4.fonderie.etape3;
 
 /**
  * Représente une sphère, qui est une forme particulière de pièce 
@@ -22,7 +22,7 @@ public class Sphere extends Piece
 	}
 
 	/**
-	 * @see fr.iutvalence.fonderie.etape3.Piece#obtenirVolumeEnCm3()
+	 * @see fr.iutvalence.java.cm4.fonderie.etape3.Piece#obtenirVolumeEnCm3()
 	 */
 	public double obtenirVolumeEnCm3()
 	{

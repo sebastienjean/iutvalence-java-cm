@@ -1,4 +1,4 @@
-package fr.iutvalence.fonderie.etape1;
+package fr.iutvalence.java.cm4.fonderie.etape1;
 
 /**
  * Représente une fonderie, dans laquelle sont fondus des pavés.

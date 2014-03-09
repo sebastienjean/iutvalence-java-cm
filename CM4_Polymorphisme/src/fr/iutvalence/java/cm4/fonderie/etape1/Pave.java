@@ -1,11 +1,11 @@
-package fr.iutvalence.fonderie.etape3;
+package fr.iutvalence.java.cm4.fonderie.etape1;
 
 /**
- * Représente un pavé, qui est une forme particulière de pièce
+ * Représente un pavé dont on souhaite notamment connaitre le volume
  * @author sebastienjean
  *
  */
-public class Pave extends Piece
+public class Pave
 {
 	/**
 	 * Longueur de l'arête X, en cm
@@ -36,7 +36,8 @@ public class Pave extends Piece
 	}
 
 	/**
-	 * @see fr.iutvalence.fonderie.etape3.Piece#obtenirVolumeEnCm3()
+	 * Obtenir le volume du pavé, en cm3
+	 * @return le volume du pavé, en cm3
 	 */
 	public double obtenirVolumeEnCm3()
 	{

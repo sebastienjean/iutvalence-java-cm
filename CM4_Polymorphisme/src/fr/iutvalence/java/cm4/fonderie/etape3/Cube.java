@@ -1,7 +1,7 @@
-package fr.iutvalence.fonderie.etape2;
+package fr.iutvalence.java.cm4.fonderie.etape3;
 
 /**
- * Représente un cube, qui est une forme particulière de pavé
+ * Représente un cube, qui est une forme particulière de pavé (et donc de pièce)
  * @author sebastienjean
  *
  */
@@ -16,4 +16,3 @@ public class Cube extends Pave
 		super(longueurAreteEnCm,longueurAreteEnCm,longueurAreteEnCm);
 	}
 }	
-	
