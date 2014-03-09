@@ -65,7 +65,7 @@ public class PileEntiersPositifsOuNuls
 	}
 
 	/**
-	 * Empiler un entier dans la pile.
+	 * Empiler un entier.
 	 * 
 	 * @param elementAEmpiler
 	 *            l'entier à empiler
@@ -88,7 +88,7 @@ public class PileEntiersPositifsOuNuls
 	}
 
 	/**
-	 * Depiler un entier dans la pile.
+	 * Dépiler un entier.
 	 * 
 	 * @throws PileVideException
 	 *             si l'entier n'a pas pu être dépilé car la pile était vide.
@@ -106,7 +106,7 @@ public class PileEntiersPositifsOuNuls
 	/**
 	 * Voir le sommet de la pile
 	 * 
-	 * @return l'entier en somment de pile
+	 * @return l'entier en sommet de pile
 	 * @throws PileVideException
 	 *             si la pile était vide.
 	 */
