@@ -1,0 +1,8 @@
+Pour que les exemples fonctionnent correctement, il faut
+- télécharger mckoiDB (> 1.0.3)
+- placer l'archive "mckoidb.jar" dans un sous-répertoire "lib" à la racine du projet
+- placer le fichier de configuration McKoi "db.conf" à la racine du projet
+- lancer l'application de création de la base de données (cf. Run Configurations Eclipse)
+- lancer l'application de lancement du serveur de base de données (cf. Run Configurations Eclipse)
+
+
