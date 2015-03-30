@@ -5,6 +5,7 @@ import fr.iutvalence.java.cm3.piles.exceptions.EntierNegatifException;
 import fr.iutvalence.java.cm3.piles.exceptions.PilePleineException;
 import fr.iutvalence.java.cm3.piles.exceptions.PileVideException;
 
+
 /**
  * Classe réalisée par extension de <tt>PileEntiersPositifsOuNuls</tt> qui ajoute le calcul incrémental
  * de la somme des éléments.
