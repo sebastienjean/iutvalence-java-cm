@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.interfaces;
+package fr.iutvalence.java.cm4.interfaces;
 
 /**
  * Représente un maillon d'une chaîne, contenant une valeur de type entier.

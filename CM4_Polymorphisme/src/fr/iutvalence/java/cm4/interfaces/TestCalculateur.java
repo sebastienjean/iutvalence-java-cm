@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.interfaces;
+package fr.iutvalence.java.cm4.interfaces;
 
 /**
  * Application de test du calculateur à pile

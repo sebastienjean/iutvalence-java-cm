@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.enumerations;
+package fr.iutvalence.java.cm4.fonderie.etape4;
 
 /**
  * Représente un cylindre, qui est une forme particulière de pièce 
@@ -29,7 +29,7 @@ public class Cylindre extends Piece
 	}
 
 	/**
-	 * @see fr.iutvalence.java.cm5.enumerations.Piece#obtenirVolumeEnCm3()
+	 * @see fr.iutvalence.java.cm4.fonderie.etape4.Piece#obtenirVolumeEnCm3()
 	 */
 	public double obtenirVolumeEnCm3()
 	{

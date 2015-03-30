@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.enumerations;
+package fr.iutvalence.java.cm4.fonderie.etape4;
 
 /**
  * Représente une pièce, dont on souhaite connaitre le volume

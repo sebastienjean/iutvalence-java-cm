@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.enumerations;
+package fr.iutvalence.java.cm4.fonderie.etape4;
 
 /**
  * Représente un cube, qui est une forme particulière de pavé (et donc de pièce)

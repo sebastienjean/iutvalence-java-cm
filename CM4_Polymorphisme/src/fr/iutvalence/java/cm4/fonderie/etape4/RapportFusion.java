@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.enumerations;
+package fr.iutvalence.java.cm4.fonderie.etape4;
 
 /**
  * Représente le rapport d'une fusion, informant sur la nature (métal) des pièces, le volume fondu et le prix correspondant

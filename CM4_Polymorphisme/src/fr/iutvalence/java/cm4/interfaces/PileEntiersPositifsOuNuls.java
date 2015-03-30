@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.interfaces;
+package fr.iutvalence.java.cm4.interfaces;
 
 /**
  * Classe représentant une pile d'entiers positifs ou nuls. Une pile est

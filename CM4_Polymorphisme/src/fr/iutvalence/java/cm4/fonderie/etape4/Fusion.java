@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.enumerations;
+package fr.iutvalence.java.cm4.fonderie.etape4;
 
 /**
  * Représente un processus de fusion dans une fonderie (fusion d'une série de pièces d'un même métal)

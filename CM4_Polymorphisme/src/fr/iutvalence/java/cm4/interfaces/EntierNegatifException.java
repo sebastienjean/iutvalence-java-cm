@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.interfaces;
+package fr.iutvalence.java.cm4.interfaces;
 
 /**
  * Exception utilisée pour manifester qu'il n'a pas été possible d'empiler sur une pile car l'entier à 

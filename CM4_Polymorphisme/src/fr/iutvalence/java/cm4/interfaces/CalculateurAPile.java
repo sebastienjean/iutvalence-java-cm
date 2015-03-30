@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm5.interfaces;
+package fr.iutvalence.java.cm4.interfaces;
 
 /**
  * Embryon incomplet de calculateur à pile, où les opérandes sont dépilés et les résultats
