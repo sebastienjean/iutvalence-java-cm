@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm7.log;
+package fr.iutvalence.java.cm6.log;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

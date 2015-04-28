@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm7.entree;
+package fr.iutvalence.java.cm6.entree;
 
 import java.io.BufferedReader;
 import java.io.IOException;

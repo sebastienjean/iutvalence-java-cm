@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm7.inversion;
+package fr.iutvalence.java.cm6.inversion;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

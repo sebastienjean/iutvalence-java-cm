@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm7.primitif;
+package fr.iutvalence.java.cm6.primitif;
 
 import java.io.DataInputStream;
 import java.io.File;

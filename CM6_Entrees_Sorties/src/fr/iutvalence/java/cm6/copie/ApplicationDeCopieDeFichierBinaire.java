@@ -1,4 +1,4 @@
-package fr.iutvalence.java.cm7.copie;
+package fr.iutvalence.java.cm6.copie;
 
 import java.io.File;
 import java.io.FileInputStream;
