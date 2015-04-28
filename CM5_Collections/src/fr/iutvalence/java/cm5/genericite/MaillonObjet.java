@@ -15,7 +15,7 @@ public class MaillonObjet
 	/**
 	 * Le maillon suivant
 	 */
-	private final MaillonObjet maillonEntierSuivant;
+	private final MaillonObjet maillonObjetSuivant;
 
 	/**
 	 * Créer un nouveau maillon, de valeur donnée et raccroché devant un autre maillon
@@ -25,7 +25,7 @@ public class MaillonObjet
 	public MaillonObjet(Object valeur, MaillonObjet suivant)
 	{
 		this.valeur = valeur;
-		this.maillonEntierSuivant = suivant;
+		this.maillonObjetSuivant = suivant;
 	}
 
 	/**
@@ -35,7 +35,7 @@ public class MaillonObjet
 	public MaillonObjet(Object valeur)
 	{
 		this.valeur = valeur;
-		this.maillonEntierSuivant = null;
+		this.maillonObjetSuivant = null;
 	}
 
 	/**
@@ -53,6 +53,6 @@ public class MaillonObjet
 	 */
 	public MaillonObjet obtenirElementSuivant()
 	{
-		return this.maillonEntierSuivant;
+		return this.maillonObjetSuivant;
 	}
 }
